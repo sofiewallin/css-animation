@@ -1,6 +1,6 @@
-# Timeline of projects
+# CSS animation playground
 
-A website with a timeline of my school assignments and projects.
+A simple website where I play around with CSS animation.
 
 This repository and website is part of a school assignment where I'm learning Git and how to use GitHub.
 
